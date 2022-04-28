@@ -34,7 +34,9 @@
   },
   "course_title": "New Media Literacies",
   "course_description": "This course serves as an in-depth look at literacy theory in media contexts, from its origins in ancient Greece to its functions and changes in the current age of digital media, participatory cultures, and technologized learning environments. Students will move quickly through traditional historical accounts of print literacies; the majority of the semester will focus on treating literacy as more than a functional skill (i.e., one's ability to read and write) and instead as a sophisticated set of meaning-making activities situated in specific social spaces. These new media literacies include the practices and concepts of: fan fiction writing, online social networking, videogaming, appropriation and remixing, transmedia navigation, multitasking, performance, distributed cognition, and collective intelligence. Assignments include weekly reading and writing assignments and an original research project. Readings will include Plato, Goody and Watt, Scribner and Cole, Graff, Brandt, Heath, Lemke, Gee, Alvermann, Jenkins, Hobbs, Pratt, Leander, Dyson, Levy, Kress, and Lankshear and Knobel.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.600",
   "primary_course_number": "CMS.998",
   "course_image_thumbnail": {
